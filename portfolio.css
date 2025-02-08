@@ -1,0 +1,38 @@
+.bg_container {
+    background-image: url("https://img.freepik.com/premium-photo/black-background_1314622-3090.jpg?ga=GA1.1.1761028822.1737183992&semt=ais_incoming_vrsd");
+    background-size: cover;
+    height: 100vh;
+}
+.image {
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    
+}
+.main_container {
+    margin-top: 30px;
+}
+.heading {
+    color: rgba(235, 243, 244, 0.889);
+    font-size: 50px;
+    font-family: "Roboto";
+    padding: 10px;
+    font-weight: bold;
+}
+
+.paragraph {
+    color: rgba(235, 243, 244, 0.889);
+    font-size: 20px;
+    font-family: "Bree";
+    padding: 10px;
+}
+
+.button {
+    background-color:aliceblue;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+.heading2 {
+    font-size: 25px;
+}
